@@ -7,7 +7,7 @@ Easily save websites to your bookmarks with this simple Chrome Extension.
 * Typescript
 * AngularJS
 
-<b>STILL A WORK-IN-PROGRESS</b>
+## <b>STILL A WORK-IN-PROGRESS</b>
 Any contributions would be great!
 
 <footer>GPL V3 &copy; 2016 Stephen Sanders
