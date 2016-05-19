@@ -1,0 +1,10 @@
+<section class="bookmarklist-container bookmarklist-container--blue-dark">
+  <ul class="bookmarklist__sublist">
+    <li *ngFor="#bookmark of bookmarks; #i = index">
+      <sp-bookmark [bookmark]="bookmark" (bookmarkChanged)="setBookmarks()" (bookmarkDeleted)="deleteBookmark(bookmark, i)"></sp-bookmark>
+    </li>
+  </ul>
+  <div class="">
+    <button class="bookmark__form__button" type="submit">Add</button>
+  </div>
+</section>
