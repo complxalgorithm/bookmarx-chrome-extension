@@ -1,0 +1,6 @@
+{
+  "name": "Bookmarx",
+  "tagline": "Easily view your bookmarx with this simple Chrome extension",
+  "body": "# Bookmarx Chrome Extension\r\nEasily save websites to your bookmarks with this simple Chrome Extension.\r\n\r\n## Technologies Used\r\n* HTML5/CSS3\r\n* JavaScript\r\n* Typescript\r\n* AngularJS\r\n\r\n## <b>STILL A WORK-IN-PROGRESS</b>\r\nAny contributions <a href=\"https://github.com/complxalgorithm/bookmarx-chrome-extension\" target=\"_blank\">would be great</a>!\r\n\r\n<footer>GPL V3 &copy; 2016 Stephen Sanders\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
