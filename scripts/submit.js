@@ -5,6 +5,6 @@ System.register([], function(exports_1, context_1) {
         setters:[],
         execute: function() {
         }
-    }
+    };
 });
 //# sourceMappingURL=submit.js.map

@@ -60,6 +60,6 @@ System.register(['angular2/core', './bookmarx.component', './bookmark.service'],
             }());
             exports_1("ListComponent", ListComponent);
         }
-    }
+    };
 });
 //# sourceMappingURL=list.component.js.map

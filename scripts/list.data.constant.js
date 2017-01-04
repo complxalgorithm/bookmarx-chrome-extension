@@ -18,6 +18,6 @@ System.register([], function(exports_1, context_1) {
                 { 'name': 'Extra - edit this', 'url': '' }
             ]);
         }
-    }
+    };
 });
 //# sourceMappingURL=list.data.constant.js.map

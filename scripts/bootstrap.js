@@ -16,6 +16,6 @@ System.register(['angular2/platform/browser', './list.component'], function(expo
             // Bootstrap "BookmarkComponent" as root component
             browser_1.bootstrap(list_component_1.ListComponent);
         }
-    }
+    };
 });
 //# sourceMappingURL=bootstrap.js.map
